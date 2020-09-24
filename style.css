@@ -1,0 +1,38 @@
+.heading{
+    text-align: center;
+}
+.container{
+    max-width: 800px;
+    background-color: aquamarine;
+    margin: auto;
+    height: 60vh;
+    border: 2px solid black;
+    border-radius: 10px;
+    overflow-y: auto;
+}
+.messege{
+background-color: white;
+width: 24%;
+padding: 10px;
+margin: 20px;
+border: 1px solid black;
+border-radius: 10px;
+}
+.left{
+float: left;
+clear: both;
+}
+.right{
+float: right;
+clear: both;
+}
+
+.send{
+    max-width: 800px;
+    margin: auto;
+}
+#messegeInput{
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
